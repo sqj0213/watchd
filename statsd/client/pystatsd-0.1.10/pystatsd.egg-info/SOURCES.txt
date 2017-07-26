@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+bin/pystatsd-server
+pystatsd/__init__.py
+pystatsd/daemon.py
+pystatsd/gmetric.py
+pystatsd/server.py
+pystatsd/statsd.py
+pystatsd.egg-info/PKG-INFO
+pystatsd.egg-info/SOURCES.txt
+pystatsd.egg-info/dependency_links.txt
+pystatsd.egg-info/requires.txt
+pystatsd.egg-info/top_level.txt
